@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Daily Ledger</string>
+    <string name="title_activity_main">Daily Ledger</string>
+    <string name="package_name">com.kaiguna.ledger</string>
+    <string name="custom_url_scheme">com.kaiguna.ledger</string>
+</resources>
